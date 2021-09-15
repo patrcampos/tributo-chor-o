@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    background-color: #DDD;
+    font-family: Arial;
+    text-align: center;
+}
+.titles {
+    padding: 30px;
+}
+.title_name {
+    font-size: 17px;
+    font-weight: bold;
+}
+.title_surname {
+    font-size: 15px;
+}
+.title_descrition {
+    font-size: 15px;
+    font-style: italic;
+    padding: 10px;
+}
+.main_image figcaption {
+    font-size: 14px;
+}
+.resume {
+    padding: 25px 100px;
+    font-size: 15px;
+    line-height: 20px;
+    text-align: justify;
+}
+.more {
+    font-size: 14px;
+}
+.copy {
+    font-size: 14px;
+    text-align: right;
+    padding: 30px;
+}
